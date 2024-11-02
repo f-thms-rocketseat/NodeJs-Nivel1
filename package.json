@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-nivel1",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Node.js / Nivel 1 - Fundamentos / Desafio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "f-thms",
+  "license": "ISC"
+}
